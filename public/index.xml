@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rasya</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rasya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menjadi lebih baik setidaknya 1% </title>
+      <link>http://localhost:1313/post/menjadi-lebih-baik-/second/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/menjadi-lebih-baik-/second/</guid>
+      <description>Siapa si yang gk ingin hidup nya lebih baik, menurut saya menjadi lebih baik itu mudah asalkan kita harus berkomitmen dengan diri kita. Saya percaya bahwa perubahan kecil secara konsisten dapat memiliki dampak besar pada hidup kita. Konsep &amp;ldquo;setidaknya 1%&amp;rdquo; didasarkan pada gagasan bahwa kita tidak perlu melakukan perubahan besar dalam semalam. Alih-alih, fokus pada peningkatan kecil, minimal 1%, setiap hari. Ini bisa berupa perbaikan dalam kebiasaan, pemikiran positif, atau tindakan produktif.</description>
+    </item>
+    <item>
+      <title>Selamat Datang</title>
+      <link>http://localhost:1313/post/selamat-datang/first/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/selamat-datang/first/</guid>
+      <description>Selamat datang para pembaca! pada website ini saya hanya sharing knowlage, dan mungkin saya juga akan menulis, tulisan pribadi saya.
+Selanjutnya, di blog ini saya tidak akan menulis hal-hal yang berbau teknis di karenakan, menurut saya tidak cocok saja di tulis di sini, saya akan lebih memilih website medium untuk menulis hal yang berbau teknis.
+Mungkin jika anda penasaran dengan tulisan teknis saya, saya biasa nya menulis hal teknis di website ini https://medium.</description>
+    </item>
+    <item>
+      <title>Tentang</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about</description>
+    </item>
+  </channel>
+</rss>
