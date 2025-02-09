@@ -1,0 +1,25 @@
+
+languageCode = "id"
+languageName = "Indonesia"
+contentDir = "content/id"
+weight = 1
+title = "metoraw"
+
+[params]
+displayName = "ID"
+isoCode = "id"
+rtl = false
+dateFormat = "2 January 2006"
+logo = ""
+secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "metoraw"
+email = "youremail@example.com"
+image = "img/logo-comet-1.png"
+imageQuality = 96
+headline = ""
+bio = "Programmer"
+links = [{ github = "https://github.com/metoraw" }]
