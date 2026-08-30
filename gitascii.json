@@ -13,8 +13,8 @@
         "height": 90
       },
       "config": {
-        "animationType": "slide-down",
-        "animationPreviewKey": 1
+        "animationType": "none",
+        "animationPreviewKey": 2
       },
       "locked": false,
       "visible": true,
@@ -40,8 +40,8 @@
         "statsValColor": "#79c0ff",
         "dividerColor": "#30363d",
         "showWebsite": true,
-        "animationType": "slide-down",
-        "animationPreviewKey": 4
+        "animationType": "none",
+        "animationPreviewKey": 5
       },
       "locked": false,
       "visible": true,
@@ -67,8 +67,8 @@
         ],
         "hideLangs": "Emacs Lisp,EJS,Lua",
         "showPercentage": true,
-        "animationType": "slide-down",
-        "animationPreviewKey": 2
+        "animationType": "none",
+        "animationPreviewKey": 3
       },
       "locked": false,
       "visible": true,
@@ -193,8 +193,8 @@
         ],
         "imageUrl": "https://assets.tcgdex.net/en/tcgp/A4a/050/low.webp",
         "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/A4a/050/low.webp",
-        "animationType": "slide-down",
-        "animationPreviewKey": 2
+        "animationType": "none",
+        "animationPreviewKey": 3
       },
       "locked": false,
       "visible": true,
@@ -11716,8 +11716,8 @@
         "height": 30
       },
       "config": {
-        "animationType": "slide-down",
-        "animationPreviewKey": 2
+        "animationType": "none",
+        "animationPreviewKey": 3
       },
       "locked": false,
       "visible": true,
