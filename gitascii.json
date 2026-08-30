@@ -12,7 +12,10 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "animationType": "slide-down",
+        "animationPreviewKey": 1
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -36,7 +39,9 @@
         "valueColor": "#f0f6fc",
         "statsValColor": "#79c0ff",
         "dividerColor": "#30363d",
-        "showWebsite": true
+        "showWebsite": true,
+        "animationType": "slide-down",
+        "animationPreviewKey": 4
       },
       "locked": false,
       "visible": true,
@@ -61,7 +66,9 @@
           "Lua"
         ],
         "hideLangs": "Emacs Lisp,EJS,Lua",
-        "showPercentage": true
+        "showPercentage": true,
+        "animationType": "slide-down",
+        "animationPreviewKey": 2
       },
       "locked": false,
       "visible": true,
@@ -185,7 +192,9 @@
           }
         ],
         "imageUrl": "https://assets.tcgdex.net/en/tcgp/A4a/050/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/A4a/050/low.webp"
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/A4a/050/low.webp",
+        "animationType": "slide-down",
+        "animationPreviewKey": 2
       },
       "locked": false,
       "visible": true,
@@ -11700,13 +11709,16 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 582
+        "y": 578
       },
       "size": {
         "width": 800,
         "height": 30
       },
-      "config": {},
+      "config": {
+        "animationType": "slide-down",
+        "animationPreviewKey": 2
+      },
       "locked": false,
       "visible": true,
       "zIndex": 6
