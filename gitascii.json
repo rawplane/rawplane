@@ -35,7 +35,8 @@
         "dotColor": "#484f58",
         "valueColor": "#f0f6fc",
         "statsValColor": "#79c0ff",
-        "dividerColor": "#30363d"
+        "dividerColor": "#30363d",
+        "showWebsite": true
       },
       "locked": false,
       "visible": true,
@@ -53,7 +54,15 @@
         "width": 608,
         "height": 160
       },
-      "config": {},
+      "config": {
+        "hideLangsArr": [
+          "Emacs Lisp",
+          "EJS",
+          "Lua"
+        ],
+        "hideLangs": "Emacs Lisp,EJS,Lua",
+        "showPercentage": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
