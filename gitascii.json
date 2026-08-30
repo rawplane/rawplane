@@ -11676,7 +11676,10 @@
           ]
         ],
         "cols": 150,
-        "rows": 75
+        "rows": 75,
+        "sourceType": "avatar",
+        "stagger": 0.05,
+        "rowDur": 0.05
       },
       "locked": false,
       "visible": true,
