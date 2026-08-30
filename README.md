@@ -1,6 +1,7 @@
-<a href="https://github.com/rawplane/rawplane">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawplane/rawplane/master/dark_mode.svg">
-       <img alt="rawplane's GitHub Profile README" src="https://raw.githubusercontent.com/rawplane/rawplane/master/dark_mode.svg">
-  </picture>
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/rawplane?v=1788048806538"
+    alt="GitAscii Widget"
+    width="100%"
+  />
 </a>
